@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andi Alvin</h1>
-<h3 align="center">A passionate frontend,backend,android,ios,datascience from Indonesian</h3>
+<h3 align="center">kang coding ganteng se bekasi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andialvin&label=Profile%20views&color=0e75b6&style=flat" alt="andialvin" /> </p>
 
